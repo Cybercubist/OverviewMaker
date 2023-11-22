@@ -7,3 +7,5 @@
 OverviewMaker shows evals of next assets: <i>crude oil, natural gas, gold, silver, NASDAQ, S&P 500, DJ Utility, Hang Seng, Bitcoin, Ethereum.</i> We chose those assets as far as they should represent the whole market conditions.
 
 For more visual effect we made a table in excel with a good formatting. You can enter CH evals there and get a nice table with technical analysis information of all main world indexes, commodities and assets. That table may be copied and pasted as picture wherever you want!
+
+**Disclaimer**: <i>OverviewMaker and CandleHandle analysis is not a personal investment advice. You should manage your risks carefully, the author and developers is not responsible for your losses!</i>
